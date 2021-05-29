@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".InfoFragment"
+    android:gravity="center">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+
+        android:text="AT Lab project made by Ashank Bekkam(180911138),Divyam Bansal(180911156), Vani Gupta (180911232), dependencies used
+include Google Maps,SQLite" />
+
+</LinearLayout>
